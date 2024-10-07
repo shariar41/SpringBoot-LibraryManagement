@@ -1,0 +1,4 @@
+ng new library-management
+cd library-management
+ng add @angular/material  # Optional, for UI components
+npm install @angular/forms @angular/common @angular/router --save
